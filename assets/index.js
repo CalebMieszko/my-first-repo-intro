@@ -10,6 +10,7 @@ $("#hide").click(function() {
   $(".contained").fadeOut(600);               
 });
 
+// hi! 
 // quarterly menu ends here //
 
   $(".img-dis").fadeIn(4000);
