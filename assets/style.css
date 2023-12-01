@@ -1,1 +1,254 @@
 /* Copy your CSS code from CodePen below this point */
+a {
+    color: white;
+}
+
+#nav-ul {
+    background-color: darkorange;
+    padding: 30px;
+    list-style: none;
+    margin: 0px;
+}
+
+.nav-row {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.navbutton {
+    background-color: green;
+    padding: 8px;
+    color: white;
+}
+
+/* Nav ends here */
+#main-title {
+    font-size: 35px
+}
+
+fibo-logo {
+    display: none;
+}
+
+.header1 {
+    text-align: center;
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.6)), url("https://drive.google.com/uc?export=view&id=1KVDapld513gDp4XOaLft0qfmeyxhszdV");
+    background-size: cover;
+    padding: 20px;
+}
+
+#fibo-logo {
+    display: none;
+}
+
+/* header and pic ends here */
+.bgc1 {
+    background-color: tan;
+    padding: 30px;
+}
+
+.abt-us-mar {
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-evenly;
+}
+
+#abt-sizer {
+    width: 325px;
+    margin: 30px
+}
+
+.P-class {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+#abt-us-rad {
+    border-radius: 5%;
+    height: 90%;
+    width: 90%;
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.bgc1 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+/* about us css ends here */
+.h4fonts {
+    color: darkred;
+}
+
+.cl {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-evenly;
+}
+
+.contained {
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    display: none;
+}
+
+.border {
+    border-bottom: 2px solid black
+}
+
+#fqm {
+    text-align: center;
+    border-bottom: 3px solid;
+    color: darkgreen;
+}
+
+h4 {
+    margin-bottom: 1px;
+}
+
+/* css menu end here*/
+.section-bgcolor {
+    flex-direction: row;
+    background-color: darkred;
+    background-size: cover;
+    padding: 30px;
+    margin-top: 75px;
+}
+
+#align-h2-mathsfav {
+    text-align: center;
+}
+
+#align-h2-mathsfav2 {
+    text-align: center;
+}
+
+#images-for-mathsfav {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.img-dis {
+    margin: 10px;
+    display: none;
+}
+
+#tostada {
+    border-radius: 5%;
+    height: 240px;
+    width: 300px;
+}
+
+#fries {
+    border-radius: 5%;
+    height: 240px;
+    width: 300px;
+}
+
+#grill {
+    border-radius: 5%;
+    height: 240px;
+    width: 300px;
+}
+
+/* css for maths favorite ends here */
+.hrs-loc-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: ;
+    margin-top: 100px;
+}
+
+.hrs-loc-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.hours-flex-con {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.hours-flex-item {
+    display: flex;
+    justify-content: flex-start;
+    line-height: 20.5px
+}
+
+#nachos {
+    border: 2px solid black;
+    border-radius: 2%;
+    height: 375px;
+    width: 500px;
+    margin: 0px;
+    min-width: 350px;
+    max-width: 100%;
+    max-height: 100%;
+    display: none;
+}
+
+.inline-padding-default {
+    padding-inline-start: 0px
+}
+
+.hrs-bg {
+    background-color: tan;
+    padding: 35px;
+    padding-left: 40px;
+    height: px;
+    width: 350px;
+    max-width: 100%;
+    max-height: 100%;
+    margin: -5px;
+    display: none;
+}
+
+/* css hours and location end here */
+.p {
+    text-align: center;
+}
+
+.footer-bg {
+    background-color: darkorange;
+    padding: 10px;
+    margin-top: 80px
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+}
+
+#fb {
+    height: 23px;
+    margin: 10px;
+}
+
+#insta {
+    height: 23px;
+    margin: 10px;
+}
+
+#x {
+    height: 23px;
+    margin: 10px;
+}
